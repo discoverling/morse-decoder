@@ -30,8 +30,10 @@ jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
 
+# Custom packages
 paho-mqtt>=1.6.1
 scikit-learn>=1.3.0
+numpy>=1.25.2
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.1,<9
